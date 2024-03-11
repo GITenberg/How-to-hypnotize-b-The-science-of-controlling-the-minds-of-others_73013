@@ -1,0 +1,36 @@
+_repo: How-to-hypnotize-b-The-science-of-controlling-the-minds-of-others_73013
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Anonymous
+    aliases:
+    - Anonyme
+    - Anonymous, Anonymous
+    gutenberg_agent_id: '216'
+    url: http://www.gutenberg.org/2009/agents/216
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Anonymous_work
+    - http://www.gutenberg.org/ebooks/author/49
+description: ''
+gutenberg_issued: '2024-02-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73013'
+language: en
+pgterms:marc904: https://digital.library.villanova.edu/Item/vudl:639094
+pgterms:marc905: 20230714072252anonymous
+pgterms:marc906: '1896'
+pgterms:marc907: us
+production_note: Demian Katz, Craig Kirkwood, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (Images courtesy of the Digital Library@Villanova University.)
+publication_note: '  $aBoston :$bA. B. Courtney, $c1896.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Multum in parvo library, vol. 3, no. 28, April, 1896
+subjects:
+- !lcsh 'Hypnotism'
+- !lcc 'BF'
+- GITenberg
+title: 'How to hypnotize : $b The science of controlling the minds of others'
+url: http://www.gutenberg.org/ebooks/73013
